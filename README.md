@@ -1,2 +1,0 @@
-# SwiftUI-Generics
-# SwiftUI-Generics
